@@ -1,4 +1,3 @@
-# PRODIGY-CYS-01
 Caesar Cipher Encryption and Decryption
 
 This Python program demonstrates the Caesar Cipher algorithm for encrypting and decrypting text messages.
